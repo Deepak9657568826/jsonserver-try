@@ -1,0 +1,25 @@
+{
+  "name": "jsonserver-try",
+  "version": "1.0.0",
+  "description": "Json server for project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "server":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deepak9657568826/jsonserver-try.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deepak9657568826/jsonserver-try/issues"
+  },
+  "homepage": "https://github.com/Deepak9657568826/jsonserver-try#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
